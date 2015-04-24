@@ -9284,7 +9284,9 @@ Cream on SMD OFF.&lt;br&gt;
 <instance part="P+4" gate="VCC" x="88.9" y="160.02" smashed="yes">
 <attribute name="VALUE" x="93.98" y="162.56" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="P+5" gate="VCC" x="261.62" y="205.74"/>
+<instance part="P+5" gate="VCC" x="261.62" y="205.74" smashed="yes">
+<attribute name="VALUE" x="266.7" y="208.28" size="1.778" layer="96" rot="R180"/>
+</instance>
 <instance part="GND_MCU3" gate="GND" x="243.84" y="193.04"/>
 <instance part="R4" gate="G$1" x="261.62" y="195.58" rot="R270"/>
 <instance part="C8" gate="G$1" x="261.62" y="180.34"/>

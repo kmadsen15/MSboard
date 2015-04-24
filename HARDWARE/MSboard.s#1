@@ -9270,7 +9270,7 @@ Cream on SMD OFF.&lt;br&gt;
 <instance part="R2" gate="G$1" x="236.22" y="88.9" rot="R270"/>
 <instance part="R3" gate="G$1" x="246.38" y="88.9" rot="R270"/>
 <instance part="P+1" gate="VCC" x="236.22" y="104.14" smashed="yes">
-<attribute name="VALUE" x="241.3" y="106.68" size="1.778" layer="96" rot="R180"/>
+<attribute name="VALUE" x="238.76" y="106.68" size="1.778" layer="96" rot="R180"/>
 </instance>
 <instance part="C6" gate="G$1" x="248.92" y="149.86"/>
 <instance part="C7" gate="G$1" x="261.62" y="149.86"/>
@@ -9706,12 +9706,12 @@ Cream on SMD OFF.&lt;br&gt;
 </sheet>
 </sheets>
 <errors>
-<approved hash="104,1,142.24,182.88,U1,AVCC1,VCC_MCU,,,"/>
+<approved hash="104,1,142.24,182.88,U1,AVCC1,VCC,,,"/>
 <approved hash="104,1,142.24,175.26,U1,AVSS1,GND,,,"/>
-<approved hash="104,1,142.24,172.72,U1,DVCC1,VCC_MCU,,,"/>
+<approved hash="104,1,142.24,172.72,U1,DVCC1,VCC,,,"/>
 <approved hash="104,1,142.24,170.18,U1,DVSS1,GND,,,"/>
 <approved hash="104,1,226.06,149.86,U1,DVSS2,GND,,,"/>
-<approved hash="104,1,226.06,152.4,U1,DVCC2,VCC_MCU,,,"/>
+<approved hash="104,1,226.06,152.4,U1,DVCC2,VCC,,,"/>
 <approved hash="104,1,226.06,167.64,U1,DVSS3,GND,,,"/>
 <approved hash="113,1,226.382,77.47,D1,,,,,"/>
 <approved hash="113,1,236.542,77.47,D2,,,,,"/>

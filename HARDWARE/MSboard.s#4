@@ -9214,7 +9214,7 @@ Cream on SMD OFF.&lt;br&gt;
 <part name="C6" library="resistor" deviceset="C-EU" device="C0603" value="0.1uF"/>
 <part name="C7" library="resistor" deviceset="C-EU" device="C0603" value="1uF"/>
 <part name="GND_MCU1" library="supply2" deviceset="GND" device="" value="GND"/>
-<part name="P+2" library="supply1" deviceset="VCC" device="" value="VCC_MCU"/>
+<part name="P+2" library="supply1" deviceset="VCC" device="" value="VCC"/>
 <part name="VCC" library="supply1" deviceset="VCC" device="" value="VCC_MCU"/>
 <part name="P+4" library="supply1" deviceset="VCC" device="" value="VCC_MCU"/>
 <part name="GND_MCU3" library="supply2" deviceset="GND" device=""/>
@@ -9236,7 +9236,7 @@ Cream on SMD OFF.&lt;br&gt;
 <part name="TP2" library="testpad" deviceset="TP" device="PAD1-13Y"/>
 <part name="JP3" library="pinhead" deviceset="PINHD-1X4" device="" value="UART"/>
 <part name="JP2" library="pinhead" deviceset="PINHD-1X6" device="" value="INPUT"/>
-<part name="P+3" library="supply1" deviceset="VCC" device="" value="VCC_MCU"/>
+<part name="P+3" library="supply1" deviceset="VCC" device="" value="VCC"/>
 </parts>
 <sheets>
 <sheet>

@@ -9486,6 +9486,12 @@ Cream on SMD OFF.&lt;br&gt;
 <pinref part="U1" gate="A" pin="DVCC1"/>
 <wire x1="111.76" y1="172.72" x2="142.24" y2="172.72" width="0.1524" layer="91"/>
 </segment>
+<segment>
+<pinref part="R4" gate="G$1" pin="1"/>
+<wire x1="261.62" y1="203.2" x2="261.62" y2="200.66" width="0.1524" layer="91"/>
+<junction x="261.62" y="200.66"/>
+<pinref part="P+3" gate="VCC" pin="VCC"/>
+</segment>
 </net>
 <net name="OUT1" class="0">
 <segment>
@@ -9694,14 +9700,6 @@ Cream on SMD OFF.&lt;br&gt;
 <pinref part="JP3" gate="A" pin="1"/>
 <wire x1="165.1" y1="78.74" x2="182.88" y2="78.74" width="0.1524" layer="91"/>
 <label x="170.18" y="78.74" size="1.778" layer="95"/>
-</segment>
-</net>
-<net name="VCC" class="1">
-<segment>
-<pinref part="R4" gate="G$1" pin="1"/>
-<wire x1="261.62" y1="203.2" x2="261.62" y2="200.66" width="0.1524" layer="91"/>
-<junction x="261.62" y="200.66"/>
-<pinref part="P+3" gate="VCC" pin="VCC"/>
 </segment>
 </net>
 </nets>
